@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HelloWorldOne.Controllers
 {
-    [Authorize]
+    
     public class HomeController : Controller
     {
         private readonly HelloWorldDbContext _context;
@@ -16,7 +16,7 @@ namespace HelloWorldOne.Controllers
         {
             _context = context;
         }
-        [AllowAnonymous]
+        
         public IActionResult Index()
         {
             //Employee employee = new Employee();
