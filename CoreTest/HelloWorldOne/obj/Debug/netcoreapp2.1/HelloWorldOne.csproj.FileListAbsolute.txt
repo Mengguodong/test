@@ -1,0 +1,45 @@
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.deps.json
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.runtimeconfig.json
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.runtimeconfig.dev.json
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.dll
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.pdb
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.csproj.CoreCompileInputs.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorAssemblyInfo.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorAssemblyInfo.cs
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.AssemblyInfoInputs.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.AssemblyInfo.cs
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorTargetAssemblyInfo.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.dll
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.pdb
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.csprojAssemblyReference.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.TagHelpers.input.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.TagHelpers.output.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorCoreGenerate.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+d:\Personal\Documents\Visual Studio 2017\Projects\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorTargetAssemblyInfo.cs
+D:\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.dll
+D:\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.Views.dll
+D:\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.deps.json
+D:\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.runtimeconfig.json
+D:\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.runtimeconfig.dev.json
+D:\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.pdb
+D:\CoreTest\HelloWorldOne\bin\Debug\netcoreapp2.1\HelloWorldOne.Views.pdb
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.csproj.CoreCompileInputs.cache
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorAssemblyInfo.cache
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorAssemblyInfo.cs
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.AssemblyInfoInputs.cache
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.AssemblyInfo.cs
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.TagHelpers.input.cache
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.TagHelpers.output.cache
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorCoreGenerate.cache
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detail.g.cshtml.cs
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorTargetAssemblyInfo.cache
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.RazorTargetAssemblyInfo.cs
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.Views.pdb
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.dll
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.pdb
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.csproj.CopyComplete
+D:\CoreTest\HelloWorldOne\obj\Debug\netcoreapp2.1\HelloWorldOne.csprojAssemblyReference.cache

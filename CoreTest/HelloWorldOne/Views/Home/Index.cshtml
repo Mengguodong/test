@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@model HomePageViewModel
+<table>
+    @foreach (var item in Model.Employees)
+    {
+    <tr>
+        <td>ID:</td>
+        <td>@item.ID</td>
+        <td>@item.Name</td>
+        <td> <a asp-action="detail" asp-route-pid="@item.ID" asp-route-Name="ddd" employee="111">详情</a></td> 
+    </tr>
+      
+        
+    }
+
+</table>
+
+

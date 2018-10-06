@@ -1,0 +1,6 @@
+{
+  "message": "Hello World !This's my first .Net Core program  世界你好，这是我的第一个.Net Core 程序",
+  "database": {
+    "connection": "Data Source=blogging.db"
+  }
+}
